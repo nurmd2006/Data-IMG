@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIcvbnO0RVbTlFrjHIOnpDNPeL3sxoZWzpfr4R3fhd79RPkceBgRa4LLhHAtd6uSXzE_ZbQK0bW2cLA95OcFFPAsWO3ARUp5H4ClqU_So4_Peh1RjNit4iB9qmqoCVL3o5GK0P03G2F7OireJnjsFJL4UypHjiJGlolg-IjrLD7ZGC-6ehzbbni_clog/s505/Screenshot_20241016-083323-removebg-preview.png" group-title="Sports",  Outflank TV
+https://files.catbox.moe/rea1ii.mp4
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CsoiNOSQmGI/YK6WyTgciPI/AAAAAAAABTw/3a1WWSxYit4ffCAX3pQSa-0Y1IehyfbjwCLcBGAsYHQ/s16000/T-Sports-Official-Logo.png" group-title="Sports",T Sports 
@@ -127,6 +129,23 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/independent_tv.png" group-title="News", Independent TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/tracks-v1a1/mono.ts.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/atn_news.png" group-title="News", ATN News HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.ts.m3u8 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/somoy_news.png" group-title="News", Somoy TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/tracks-v1a1/mono.ts.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png" group-title="Bangladesh", SATV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.ts.m3u8
@@ -272,11 +291,77 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/1100px-T_Sports_logo.svg.png",T-Sports HD
-http://161.248.188.101/T_sports/tracks-v1a1/mono.ts.m3u8
+https://t.kyni.us/jadu/jadoo.php?id=t_sports
 
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x67896",Ion TV UK
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iontvuk.stream/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS06ewxs-Sg1nrddYjdnU5SYNGasiAUqmyeab4tiAtkhUISb6WS4L-Jf92Spn8lS6g6tH61_q4ufwu8sf0snFeTD8t9YwCkM0SQWY3solqjnCdECExmQNtZxMZwcZuc3YPzm1vCT_IYw_AfdjwZUy0632nDoCiUd5NisIr5Dys6SNy48PAz5fNKZKcKw/s756/1676193184888_2.png" group-title="Bangladesh", Sangsad TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Sony%20Ten%201%20HD1734516350.png" group-title="Sports", Sony Sports 1
+https://tf.kyni.us/live.php?id=sony_sports_1_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Sony%20Ten%202%20HD1734516439.png" group-title="Sports", Sony Sports 2
+https://tf.kyni.us/live.php?id=sony_sports_2_hd&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Sony%20Ten%205%20HD1734516572.png" group-title="Sports", Sony Sports 5
+https://tf.kyni.us/live.php?id=sony_sports_5_hd&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Redbull%20TV1734518885.png" group-title="Sports", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/SONY%20MAX%20VIP1734524034.png" group-title="Movies", Sony Max SD
+https://tf.kyni.us/live.php?id=sony_max&e=.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/SONY%20MAX%20HD%20VIP1734523991.png" group-title="Movies", Sony Max HD
+https://tf.kyni.us/live.php?id=sony_max_hd&e=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/SONY%20MAX%202%20VIP1734524163.png" group-title="Movies", Sony Max 2 HD
+https://tf.kyni.us/live.php?id=sonymax_2&e=.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Zee%20Bangla%20HD1734522890.png" group-title="Drama", Zee Bangla SD
+https://t.kyni.us/jadu/jadoo.php?id=zee_bangla
+
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/B4U%20Movies%20VIP1734524121.png" group-title="Movies", B4U Movies 
+https://tf.kyni.us/live.php?id=b4u_movies&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/SONY%20PIX%20HD%20VIP1734524071.png" group-title="Movies", Sony PIX HD 
+https://tf.kyni.us/live.php?id=sonypix_hd&e=.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imotv.online/assets/images/Zee%20Cinema%20HD1734524464.png" group-title="Movies", Zee Cinema HD
+https://t.kyni.us/jadu/jadoo.php?id=zee_cinema_hd
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/bangla_vision.png" group-title="Bangladesh", BanglaVision HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/tracks-v1a1/mono.ts.m3u8
+
 
 
 
