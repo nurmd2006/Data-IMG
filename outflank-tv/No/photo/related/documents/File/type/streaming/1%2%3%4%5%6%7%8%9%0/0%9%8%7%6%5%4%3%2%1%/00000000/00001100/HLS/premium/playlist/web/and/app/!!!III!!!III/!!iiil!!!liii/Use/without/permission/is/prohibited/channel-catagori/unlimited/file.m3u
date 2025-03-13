@@ -233,6 +233,11 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="News",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-logo="https://i.imgur.com/PyDjUZB.png" group-title="News",NDTV India (480p) [Not 24/7]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
 
 
@@ -243,10 +248,15 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 
 
-
+#EXTINF:-1 tvg-id="News24.in" tvg-logo="https://i.imgur.com/x72O77X.png" group-title="News",News 24 
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelY.in" tvg-logo="https://i.imgur.com/OqSl2Qf.png" group-title="News",Channel Y 
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+
+
+
+
 
 
 
@@ -342,6 +352,11 @@ https://tf.kyni.us/live.php?id=pogo_sd&e=.m3u8
 https://tf.kyni.us/live.php?id=sonyyay&e=.m3u8
 
 
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GtzCDKM/20240803-163809.png" group-title="Kids", HUNGAMA TV
 http://119.152.240.15:8001/play/a0cs/index.m3u8
 
@@ -367,6 +382,14 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iTxTptkC-ROO3ckfhdd-LvA_IpWDw1lx8-l9nvOuq1mGeifeAtsfNJgQ8o60meWDyLK5VHGLBw=s900-c-k-c0x00ffffff-no-rj" group-title="Documentary",Discovery Bangla 
 http://bd.bdix.xyz:8880/live/789865437/789865437/19779.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="WeatherSpyIndia.in" tvg-logo="https://yt3.googleusercontent.com/_se1GdZIn3rJwd5D7HLD5y6Y3X3IgXpE8L1_5dQqd7RZe6hotfD45pXzQhJVAo_iCoeuOM2ktA=s900-c-k-c0x00ffffff-no-rj" group-title="Documentary",Weatherspy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 
 
@@ -592,6 +615,64 @@ https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index
 
 
 
+#EXTINF:-1 tvg-id="SSCActionWaleed.sa" tvg-logo="https://i.imgur.com/agc0IZF.png" group-title="Sports",SSC Action Waleed (1080p) [Not 24/7]
+https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8
+#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="W14DKD5.us" tvg-logo="https://i.imgur.com/D4mZ8ll.png" group-title="Sports",W14DK-D 14.5 All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Sports",Dubai Sports 2 (720p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Sports",Dubai Sports 3 (1080p) [Not 24/7]
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="SharjahSports.ae" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/f5/3e/fullhd_d83f05132cd8c44b47acc7062711d27c20a5ddc4.png" group-title="Sports",Sharjah Sports TV (1080p)
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OneGolf.pk" tvg-logo="https://i.imgur.com/7JhaEW5.png" group-title="Sports",One Golf (720p)
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="Sports",Ovacion TV (720p) [Not 24/7]
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMotor.no" tvg-logo="https://pbs.twimg.com/profile_images/1608203187/canalmotor_logo_400x400.png" group-title="Sports",Canal Motor (720p)
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",Fight Network (1080p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-logo="https://i.imgur.com/BKaEtqL.png" group-title="Sports",Астрахань.Ru Sport (720p)
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV (720p) [Geo-blocked]
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 tvg-id="QazSport.kz" tvg-logo="https://i.imgur.com/UDJ0P5Q.png" group-title="Sports",QazSport (480p) [Geo-blocked]
+https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/b0H5f62.png" group-title="Sports",Teledeporte (576p) [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://et.trefoil.tv/uploads/posts/2023-10/teleromagna-sport.webp" group-title="Sports",TR Sport (480p)
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PokerTV.fr" tvg-logo="https://www.parsatv.com/index_files/channels/pokertv.jpg" group-title="Sports",Poker TV (720p)
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CampusLore.us" tvg-logo="https://i.imgur.com/dCXl0rq.png" group-title="Sports",CampusLore (720p)
+https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="Sports",San Marino RTV Sport (720p)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1 tvg-id="SwerveSports.us" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="Sports",Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MadeinBOTV.it" tvg-logo="https://i.imgur.com/47X44DD.png" group-title="Sports",MadeinBO TV (1080p)
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://i.imgur.com/Q55HX1O.png" group-title="Sports",Racing.com (720p)
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Sports",Teletrak (720p)
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BEKSportsWest.us" tvg-logo="https://i.imgur.com/uJb4VOc.png" group-title="Sports",BEK TV Sports West (720p)
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TDMSports.mo" tvg-logo="https://i.imgur.com/HNjL3B2.png" group-title="Sports",TDM Sports Ch. 93 (720p)
+https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Sports",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="LaxSportsNetworkTV.us" tvg-logo="https://www.nicepng.com/png/detail/941-9410703_1519835956947-lsn-logo-red-16x9images-lax-sports-network.png" group-title="Sports",Lax Sports Network TV (720p)
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
+#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="Sports",Sport En France (1080p)
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
 
 
@@ -599,4 +680,107 @@ https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index
 
 
 
+
+#EXTINF:-1 tvg-id="CCM.hk" tvg-logo="https://i.imgur.com/1VhXilw.png" group-title="Movies",Celestial Classic 天映经典 (Celestial Classic Movies) (Indonesian Subtitle) (576p)
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+
+#EXTINF:-1 tvg-id="WeyyakDrama.ae" tvg-logo="https://weyyak.com/favicon_512.png" group-title="Drama",Weyyak Drama (720p)
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+
+#EXTINF:-1 tvg-id="GroovyTV.gr" tvg-logo="https://i.imgur.com/ZYNQuf1.png" group-title="Movies",Groovy TV (360p)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Charge.us" tvg-logo="https://i.imgur.com/1rxmu2u.png" group-title="Movies",Charge! (720p)
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Amedia Premium (480p)
+http://ott-cdn.ucom.am/s64/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Dorama.uk" tvg-logo="https://i.imgur.com/ZH5LuXU.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Дорама (480p)
+http://ott-cdn.ucom.am/s95/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DiscoverFilm.uk" tvg-logo="https://pqatv.com/wp-content/uploads/2019/10/strapline-01.jpg" group-title="Movies",DiscoverFilm
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" group-title="Movies",Star Movies India (576p) [Not 24/7]
+http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
+
+
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkSpain.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmB5f1AErLSoq6kFaPWGu32Xk3W_2qz2keQ&s" group-title="Movies",MyTime movie network Spain (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFilmDetective.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKKHspKbfJUcAfI-ZiGoiGCkK7UJzYIUGHwA&s" group-title="Movies",The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTimeMovieNetworkBrazil.br" tvg-logo="https://yt3.googleusercontent.com/_IYldBaqPlDzVmhupfTuZlXegDoAw8cxmK54WY7vjPaTQwEh49Bco2D4lhlZ36cDy_VPv3zROw=s900-c-k-c0x00ffffff-no-rj" group-title="Movies",MyTime Movie Network Brazil (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Movies",Classique TV (360p)
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="Cine5.tr" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="Movies",Cine5 (720p)
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AfghanNobelMovies.ca" tvg-logo="https://i.ibb.co/zfdbVSm/logo-1.png" group-title="Movies",Afghan Nobel Movies (720p)
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:-1 tvg-id="Action24.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Action_24_new_logo.jpg" group-title="Movies",Action 24 (1080p)
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ToonamiAftermathEast.us" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Kids",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Kids",eSports Max (480p) [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Kids",Anime TV (360p) [Not 24/7]
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-logo="https://pbs.twimg.com/media/EiIPO1CUYAAQGNI.jpg" group-title="Kids",CONtv Anime (1080p)
+https://contvanime-roku-ingest.cinedigm.com/master.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Kids",Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/2006_Magic_Kids_logo.png" group-title="Kids",Magic Kids (486p)
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Kids",Three Angels Broadcasting Network Kids Network (3ABN) (720p)
+https://3abn-live.akamaized.net/hls/live/2010550/Kids/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="IndywoodTV.in" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" group-title="Movies",Indywood TV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
+#EXTINF:-1 tvg-id="NextHD.py" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Movies",Next HD (480p)
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies",Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
  
+ 
+ #EXTINF:-1 tvg-id="WildsideTV.fr" tvg-logo="https://i.imgur.com/cQkfRhH.png" group-title="Movies",Wildside TV (720p)
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SL2.ir" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="Movies",SL 2 (720p)
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MadeInHollywood.us" tvg-logo="https://i.imgur.com/p16HNIM.png" group-title="Movies",Made in Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="SL1.ir" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="Movies",SL 1 (720p)
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BravoFarsiTV.ir" tvg-logo="https://i.ibb.co/yynxRTS/Bravo-Farsi.jpg" group-title="Movies",Bravo Farsi TV (360p)
+https://bravoohls.wns.live/hls/stream.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CinemaPlus.co" tvg-logo="https://i.imgur.com/ExZeBRf.png" group-title="Movies",Cinema + (720p)
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
